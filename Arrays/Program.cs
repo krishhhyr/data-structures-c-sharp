@@ -15,6 +15,7 @@
             scores[0] = 0;
             scores[1] = 1;
             scores[2] = 2;
+            #endregion
 
         }
     }
