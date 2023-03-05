@@ -1,4 +1,4 @@
 # data-structures-c-sharp
-Data structures implemented in C Sharp
+Data structures which I've implemented so far in C# (in accordance to my A-Level specification);
 
-#Data Structures
+- [Arrays](https://github.com/krishhhyr/data-structures-c-sharp/blob/main/Arrays/Program.cs)
