@@ -40,7 +40,17 @@
                 Console.WriteLine("Stack is full");
             }
         }
-
+        static void Peek() 
+        {
+            if (top == -1)
+            {
+                Console.WriteLine("Stack empty");
+            }
+            else 
+            {
+                Console.WriteLine(stack[top]);
+            }
+        }
 
         #endregion
     }
