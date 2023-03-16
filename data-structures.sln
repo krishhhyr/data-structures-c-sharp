@@ -5,7 +5,9 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "Arrays\Arrays.csproj", "{4B6FA790-EA2B-4E56-8599-9D2221FB6FD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stacks", "Stacks\Stacks.csproj", "{9DA0E1D0-4F7E-4920-BFA3-969E5008DA7D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stacks", "Stacks\Stacks.csproj", "{9DA0E1D0-4F7E-4920-BFA3-969E5008DA7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queues", "Queues\Queues.csproj", "{9AC699BA-6566-419C-B173-17FB9C1FBD06}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{9DA0E1D0-4F7E-4920-BFA3-969E5008DA7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DA0E1D0-4F7E-4920-BFA3-969E5008DA7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DA0E1D0-4F7E-4920-BFA3-969E5008DA7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AC699BA-6566-419C-B173-17FB9C1FBD06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AC699BA-6566-419C-B173-17FB9C1FBD06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AC699BA-6566-419C-B173-17FB9C1FBD06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AC699BA-6566-419C-B173-17FB9C1FBD06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
