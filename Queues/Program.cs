@@ -16,7 +16,7 @@ namespace Queues
         }
 
         #region Linear-Queue
-        // This adds an item to a linear queue
+        // Adds an item to a linear queue
         static void Enqueue(int item) 
         {
             if ((front == -1) && (rear == -1))
@@ -39,7 +39,7 @@ namespace Queues
             }
                     
         }
-        // This removes an item from a linear queue
+        // Removes an item from a linear queue
         static void Dequeue(int item) 
         {
             // Checks if the queue is empty
