@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stacks", "Stacks\Stacks.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Queues", "Queues\Queues.csproj", "{9AC699BA-6566-419C-B173-17FB9C1FBD06}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hashtables", "Hashtables\Hashtables.csproj", "{7E585B12-D91C-4CB6-BB4D-E831D5DAFDA8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hashtables", "Hashtables\Hashtables.csproj", "{7E585B12-D91C-4CB6-BB4D-E831D5DAFDA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionaries", "Dictionaries\Dictionaries.csproj", "{C2E60FE1-00A7-4E6F-885C-CF26CA60ABFB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{7E585B12-D91C-4CB6-BB4D-E831D5DAFDA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E585B12-D91C-4CB6-BB4D-E831D5DAFDA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E585B12-D91C-4CB6-BB4D-E831D5DAFDA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2E60FE1-00A7-4E6F-885C-CF26CA60ABFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2E60FE1-00A7-4E6F-885C-CF26CA60ABFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2E60FE1-00A7-4E6F-885C-CF26CA60ABFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2E60FE1-00A7-4E6F-885C-CF26CA60ABFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
